@@ -7,5 +7,11 @@ public class solarSystem {
 
         System.out.println("the solar system is ready");
 
+        //
+        planet2 mars = new planet2();
+        mars.color = "red";
+        mars.size = "20km";
+        mars.radius = "6km";
+
     }
 }
